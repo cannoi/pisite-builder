@@ -1,0 +1,14 @@
+{
+  "name": "pisite-builder",
+  "version": "1.0.0",
+  "description": "PiSite Builder - Website Builder for non-technical users",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.7"
+  }
+}
